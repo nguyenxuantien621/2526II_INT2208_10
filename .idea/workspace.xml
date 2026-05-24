@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d88b2a87-53a9-4f75-b710-ef31f94b31c3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/main/main.iml" afterDir="false" />
@@ -54,6 +57,14 @@
     "project.structure.side.proportion": "0.35172415"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="TriangleClassifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
